@@ -1,6 +1,7 @@
 # Titanic Survival Prediction
 
-A machine learning classification project based on the Kaggle Titanic competition.
+A machine learning classification project based on the [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic competition) competition.
+
 
 ## Project Overview
 
